@@ -6,7 +6,7 @@ v p l c f  k u o y j
 r n t s d  ' a e i h
 z b m g w  x , . ; q
 ```
-### Genkey Breakdown
+### [Genkey](https://github.com/semilin/genkey) Breakdown
 ```
 Rolls (l): 21.73%
         Inward: ~14.06%
@@ -84,7 +84,7 @@ w c l d k  j y o u /
 r s t h m  p n e i a
 q v g f b  z x ' , .
 ```
-### Genkey Breakdown
+### [Genkey](https://github.com/semilin/genkey) Breakdown
 ```
 Rolls (l): 19.17%
         Inward: ~14.25%
