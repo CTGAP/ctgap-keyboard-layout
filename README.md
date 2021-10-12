@@ -31,5 +31,5 @@ CTGAP 2.0 (Deprecated)
 Note: This page is a WIP. I plan to add:
 - Analyses of CTGAP 3.0 and 2.0 with Semi's Genkey analyzer
 - Analyses of CTGAP 3.0 and 2.0 with IanDoug's KLAnext analyzer
-- Downloads for Windows, MacOS, and Linux
+- CTGAP 3.0 downloads for Windows, MacOS, and Linux
 - Personal QMK Keymaps of CTGAP 3.0 for Dactyl Manuform 3x5/4x5 and Corne/CRKBD 3x5
