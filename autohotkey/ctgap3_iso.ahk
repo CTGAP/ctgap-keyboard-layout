@@ -1,7 +1,7 @@
-﻿; CTGAP 3.0 mapping for ANSI boards
+﻿; CTGAP 3.0 mapping for ISO boards
 
-SC00C::[
-SC00D::]
+SC01C::[
+SC01D::]
 
 SC010::v
 SC011::p
@@ -28,11 +28,12 @@ SC026::i
 SC027::h
 SC028::-
 
+SC056::z
 SC02c::b
 SC02d::m
 SC02e::g
 SC02f::w
-SC030::z
+SC030::\
 SC031::x
 SC032::,
 SC033::.
