@@ -25,13 +25,6 @@ Index Usage: 19.1% 13.3%
 SFBs: 1.508%
 DSFBs: 7.863%
 LSBs: 1.14%
-Top SFBs:
-        e. 0.205%       ak 0.153%       sc 0.138%       ds 0.132%
-        au 0.127%       ua 0.111%       lt 0.110%       tl 0.095%
-
-Worst Bigrams:
-        oe 23.001       vr 19.957       lm 16.663       ka 12.647
-        lt 12.397       o. 10.973       sd 10.721       cs 9.482
 ```
 ### Implementations
 [Angle mod](https://colemakmods.github.io/ergonomic-mods/angle.html) is essential to implementation on row-stagger keyboards.
@@ -103,13 +96,6 @@ Index Usage: 15.1% 11.3%
 SFBs: 1.007%
 DSFBs: 6.803%
 LSBs: 1.33%
-Top SFBs:
-        sc 0.138%       ny 0.119%       lt 0.110%       ui 0.107%
-        tl 0.095%       mb 0.079%       eo 0.078%       xp 0.063%
-
-Worst Bigrams:
-        oe 23.001       lg 16.612       wr 16.107       cs 14.486
-        lt 12.397       ui 11.503       a. 8.173        cv 6.991
 ```
 Note: This page is a WIP. I plan to add:
 - Analyses of CTGAP 3.0 and 2.0 with IanDoug's KLAnext analyzer
