@@ -26,6 +26,8 @@ SFBs: 1.508%
 DSFBs: 7.863%
 LSBs: 1.14%
 ```
+### Heatmap
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-3.en.ergodox_heatmap.PNG?raw=true)
 ### Implementations
 [Angle mod](https://colemakmods.github.io/ergonomic-mods/angle.html) is essential to implementation on row-stagger keyboards.
 #### ANSI
@@ -97,6 +99,9 @@ SFBs: 1.007%
 DSFBs: 6.803%
 LSBs: 1.33%
 ```
+### Heatmap
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-2.en.ergodox_heatmap.PNG?raw=true)
+
 Note: This page is a WIP. I plan to add:
 - Analyses of CTGAP 3.0 and 2.0 with IanDoug's KLAnext analyzer
 - CTGAP 3.0 downloads for Windows, MacOS, and Linux
