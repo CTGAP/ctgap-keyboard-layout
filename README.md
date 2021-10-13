@@ -26,6 +26,8 @@ SFBs: 1.508%
 DSFBs: 7.863%
 LSBs: 1.14%
 ```
+### KLAnext Results
+![Results](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/results.PNG)
 ### Heatmap
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-3.en.ergodox_heatmap.PNG?raw=true)
 ### Implementations
@@ -73,8 +75,8 @@ LSBs: 1.14%
    z  b  m  g  w  x  ,  .  ;  q
 ```
 ## CTGAP 2.0 (Deprecated)
-This is an experimental version of CTGAP referred to by Apsu's [APT Keyboard Layout](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here.
-``` 
+This is an experimental version of CTGAP referred to by Apsu's [APT Keyboard Layout](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. If you are interested in using this layout, please consider [APT](https://github.com/Apsu/APT) instead; it is in many ways a more refined version of the layout shown here.
+```
 w c l d k  j y o u /
 r s t h m  p n e i a
 q v g f b  z x ' , .
@@ -103,6 +105,5 @@ LSBs: 1.33%
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-2.en.ergodox_heatmap.PNG?raw=true)
 
 Note: This page is a WIP. I plan to add:
-- Analyses of CTGAP 3.0 and 2.0 with IanDoug's KLAnext analyzer
 - CTGAP 3.0 downloads for Windows, MacOS, and Linux
 - Personal QMK Keymaps of CTGAP 3.0 for Dactyl Manuform 3x5/4x5 and Corne/CRKBD 3x5
