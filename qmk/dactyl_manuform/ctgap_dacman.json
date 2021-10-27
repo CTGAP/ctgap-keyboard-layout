@@ -35,7 +35,7 @@
       "KC_X",
       "KC_COMM",
       "KC_DOT",
-      "RALT_T(KC_SCLN)",
+      "RALT_T(KC_SLSH)",
       "KC_Q",
       "KC_NO",
       "KC_NO",
@@ -209,7 +209,7 @@
       "KC_NO",
       "KC_NO",
       "RESET",
-      "KC_SLSH",
+      "KC_SCLN",
       "KC_4",
       "KC_5",
       "KC_6",
@@ -257,7 +257,7 @@
       "KC_NO",
       "KC_NO",
       "RESET",
-      "KC_QUES",
+      "KC_COLN",
       "KC_DLR",
       "KC_PERC",
       "KC_CIRC",
@@ -343,5 +343,5 @@
       "KC_NO"
     ]
   ],
-  "author": ""
+  "author": "Colby Chai"
 }
