@@ -74,6 +74,9 @@ LSBs: 1.14%
    r  n  t  s  d  '  a  e  i  h  -
    z  b  m  g  w  x  ,  .  ;  q
 ```
+The implementations shown above are of the reference version. Please feel free to make any modifications in your implementation to better suit your personal preferences.
+### My Implementation
+![Personal Implementation](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/qmk/ctgap_personal_implementation.png)
 ## CTGAP 2.0 (Deprecated)
 This is an experimental version of CTGAP referred to by Apsu's [APT Keyboard Layout](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. If you are interested in using this layout, please consider [APT](https://github.com/Apsu/APT) instead; it is in many ways a more refined version of the layout shown here.
 ```
