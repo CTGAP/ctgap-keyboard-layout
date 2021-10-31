@@ -1,5 +1,5 @@
 # CTGAP Keyboard Layouts
-This is a log of the layouts I've created and used. If you are interested in using one, you are responsible for your own implementation.
+This is a log of the layouts I've created and used. If you're interested in using one, you're responsible for your own implementation.
 ## CTGAP 3.1
 ```
 j g m p v  z u o y k
