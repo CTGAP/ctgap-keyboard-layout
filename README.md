@@ -1,11 +1,11 @@
 # CTGAP Keyboard Layouts
+This is a log of the layouts I've created and used. If you are interested in using one, you are responsible for your own implementation.
 ## CTGAP 3.1
 ```
 j g m p v  z u o y k
 r s n t w  f a e i h
 x c l d b  / , ' . q
 ```
-
 ## CTGAP 3.0
 ```
 v p l c f  k u o y j
@@ -36,51 +36,6 @@ LSBs: 1.14%
 ![Results](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/results.PNG)
 ### Heatmap
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-3.en.ergodox_heatmap.PNG?raw=true)
-### Implementations
-[Angle mod](https://colemakmods.github.io/ergonomic-mods/angle.html) is essential to implementation on row-stagger keyboards.
-#### ANSI
-```
------------------Shifted-----------------
-~  !  @  #  $  %  ^  &  *  (  )  {  }
-    V  P  L  C  F  K  U  O  Y  J  ?  +  |
-     R  N  T  S  D  "  A  E  I  H  _
-       B  M  G  W  Z  X  <  >  :  Q
-
-----------------Unshifted----------------
-`  1  2  3  4  5  6  7  8  9  0  [  ]
-    v  p  l  c  f  k  u  o  y  j  /  =  \
-     r  n  t  s  d  '  a  e  i  h  -
-       b  m  g  w  z  x  ,  .  ;  q
-```
-#### ISO
-```
-----------------Shifted----------------
-¬  !  "  ₤  $  %  ^  &  *  (  )  {  }
-    V  P  L  C  F  K  U  O  Y  J  ?  +
-     R  N  T  S  D  @  A  E  I  H  _  ~
-    Z  B  M  G  W  |  X  <  >  :  Q
-
----------------Unshifted---------------
-`  1  2  3  4  5  6  7  8  9  0  [  ]
-    v  p  l  c  f  k  u  o  y  j  /  =
-     r  n  t  s  d  '  a  e  i  h  -  #
-    z  b  m  g  w  \  x  ,  .  ;  q
-```
-#### Matrix
-```
------------------Shifted-----------------
-~  !  @  #  $  %  ^  &  *  (  )  {  }
-   V  P  L  C  F  K  U  O  Y  J  ?  +  |
-   R  N  T  S  D  "  A  E  I  H  _
-   Z  B  M  G  W  X  <  >  :  Q
-
-----------------Unshifted----------------
-`  1  2  3  4  5  6  7  8  9  0  [  ]
-   v  p  l  c  f  k  u  o  y  j  /  =  \
-   r  n  t  s  d  '  a  e  i  h  -
-   z  b  m  g  w  x  ,  .  ;  q
-```
-The implementations shown above are of the reference version. Please feel free to make any modifications in your implementation to better suit your personal preferences.
 ## CTGAP 2.0 (Deprecated)
 This is an experimental version of CTGAP referred to by Apsu's [APT Keyboard Layout](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. If you are interested in using this layout, please consider [APT](https://github.com/Apsu/APT) instead; it is in many ways a more refined version of the layout shown here.
 ```
@@ -111,6 +66,4 @@ LSBs: 1.33%
 ### Heatmap
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-2.en.ergodox_heatmap.PNG?raw=true)
 
-Note: This page is a WIP. I plan to add:
-- CTGAP 3.0 downloads for Windows, MacOS, and Linux
-- Personal QMK Keymaps of CTGAP 3.0 for Dactyl Manuform 3x5/4x5 and Corne/CRKBD 3x5
+Note: this page is a WIP; I plan to add design notes for each layout in the future.
