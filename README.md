@@ -6,6 +6,29 @@ j g m p v  z u o y k
 r s n t w  f a e i h
 x c l d b  / , ' . q
 ```
+
+### [Genkey](https://github.com/semilin/genkey) Breakdown
+```
+Rolls (l): 21.38%
+	Inward: ~12.86%
+	Outward: ~8.52%
+Rolls (r): 21.92%
+	Inward: ~17.20%
+	Outward: ~4.73%
+Alternates: ~42.64%
+Onehands: ~1.21%
+Redirects: ~2.99%
+Finger Speed (weighted): [0.20 1.60 2.20 3.84 2.16 2.03 1.21 0.15]
+Finger Speed (unweighted): [0.31 5.75 10.56 21.09 11.90 9.73 4.35 0.22]
+Highest Speed (weighted): 3.84 (LI)
+Highest Speed (unweighted): 21.09 (LI)
+Index Usage: 19.0% 14.2%
+SFBs: 1.295%
+DSFBs: 7.492%
+LSBs: 1.81%
+```
+### Heatmap
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-31.en.ergodox_heatmap.PNG?raw=true)
 ## CTGAP 3.0
 This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards (something I no longer account for) and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states. This layout has a rather high SFB rate, especially compared to some of the layouts I have used in the past (Hands Down Reference, ISRT, CTGAP 2.0).
 ```
