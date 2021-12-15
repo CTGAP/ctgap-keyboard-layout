@@ -1,13 +1,19 @@
 # CTGAP Keyboard Layouts
+
 This is a log of the layouts I have created. If you are interested in using one, you are responsible for your own implementation.
+
 ## CTGAP 3.0
-This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards (something I no longer account for) and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states. This layout has a rather high SFB rate, especially compared to some of the layouts I have used in the past (Hands Down Reference, ISRT, CTGAP 2.0).
+
+This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards (something I no longer account for) and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states.
+
 ```
 v p l c f  k u o y j
 r n t s d  ' a e i h
 z b m g w  x , . ; q
 ```
+
 ### [Genkey](https://github.com/semilin/genkey) Breakdown
+
 ```
 Rolls (l): 21.73%
         Inward: ~14.06%
@@ -27,16 +33,23 @@ SFBs: 1.508%
 DSFBs: 7.863%
 LSBs: 1.14%
 ```
+
 ### Heatmap
+
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-3.en.ergodox_heatmap.PNG?raw=true)
+
 ## CTGAP 2.0
+
 This is an experimental version of CTGAP referred to by Apsu's [APT](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. The original goal of this layout was to reduce the frequency of pinky-ring NFBs on MTGAP while maintaining its low DSFB rate and distance. The punctuation was taken from Alan Reiser's [Hands Down Reference](https://sites.google.com/alanreiser.com/handsdown#h.s6920vg5spfm). Although the `o'` bigram contributed to DSFB distance, I no longer cared about its performance on Genkey and instead wanted to maximize its comfort and usability for me.
+
 ```
 w c l d k  j y o u /
 r s t h m  p n e i a
 q v g f b  z x ' , .
 ```
+
 ### [Genkey](https://github.com/semilin/genkey) Breakdown
+
 ```
 Rolls (l): 19.17%
         Inward: ~14.25%
@@ -56,5 +69,7 @@ SFBs: 1.007%
 DSFBs: 6.803%
 LSBs: 1.33%
 ```
+
 ### Heatmap
+
 ![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-2.en.ergodox_heatmap.PNG?raw=true)
