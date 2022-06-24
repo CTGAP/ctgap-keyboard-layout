@@ -34,6 +34,10 @@ DSFBs: 6.816%
 LSBs: 1.30%
 ```
 
+### Heatmap
+
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-4.en.ergodox_heatmap.PNG?raw=true)
+
 ## CTGAP 3.0
 
 This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states.
