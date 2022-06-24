@@ -1,10 +1,42 @@
-# CTGAP Keyboard Layouts
+# CTGAP's Keyboard Layouts
 
 This is a log of the layouts I have created. If you are interested in using one, you are responsible for your own implementation.
 
+## CTGAP 4.0
+
+This layout is a return to form after the failed experiment that was version 3.0. The goal was to polish the experimental version 2.0 into something more usable. This once existed in the form of Apsu's [APT](https://github.com/Apsu/APT), but it has morphed into something that no longer remotely resembles any of my layouts (or anything I would peronally use, for that matter). One of the most common criticisms of version 2.0 was the index imbalance; the right index was severely underused compared to the left index. That issue is resolved in this version, with only a 0.8% difference in usage between the index fingers compared to 3.8% in version 2.0. I also reduced top row pinky usage, swapping out `w` in exchange for `x`.
+
+```
+x c l m k  j y o u /
+r s t h b  p n e i a
+q g w d v  z f ' , .
+```
+
+### [Genkey](https://github.com/semilin/geney) Breakdown
+
+```
+Rolls (l): 18.34%
+        Inward: ~14.35%
+        Outward: ~3.99%
+Rolls (r): 26.81%
+        Inward: ~15.55%
+        Outward: ~11.25%
+Alternates: ~37.94%
+Onehands: ~2.27%
+Redirects: ~5.17%
+Finger Speed (weighted): [0.21 1.60 2.52 2.39 1.46 2.03 1.22 0.61]
+Finger Speed (unweighted): [0.31 5.75 12.09 13.14 8.02 9.73 4.39 0.92]
+Highest Speed (weighted): 2.52 (LM)
+Highest Speed (unweighted): 13.14 (LI)
+Index Usage: 14.0% 13.2%
+SFBs: 1.062%
+DSFBs: 6.816%
+LSBs: 1.30%
+```
+
 ## CTGAP 3.0
 
-This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards (something I no longer account for) and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states.
+This originally began as an attempt to fit IanDoug's X1 layout into a 3x10 grid. I then stumbled onto BEAKL mod Ian, which was essentially that. X1 seemed to have everything I looked for in a layout: high middle finger usage, low travel distance, and lower index usage than Colemak-DH. BEAKL mod Ian maintained that while keeping alphas and common punctuation within the main 3x10 area. Because I'm more used to vowels on the right hand, I mirrored it. After further experimentation, I realized that the original BEAKL 4 vowel hand was more comfortable for me. The resulting layout has the consonant arrangement of BEAKL mod Ian with `v` and `z` swapped to accomodate for angle mod on ANSI boards and the vowel arrangement of BEAKL 4, with punctuation rearranged to accomodate for standard US shift states.
 
 ```
 v p l c f  k u o y j
@@ -40,7 +72,7 @@ LSBs: 1.14%
 
 ## CTGAP 2.0
 
-This is an experimental version of CTGAP referred to by Apsu's [APT](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. The original goal of this layout was to reduce the frequency of pinky-ring NFBs on MTGAP while maintaining its low DSFB rate and distance. The punctuation was taken from Alan Reiser's [Hands Down Reference](https://sites.google.com/alanreiser.com/handsdown#h.s6920vg5spfm). Although the `o'` bigram contributed to DSFB distance, I no longer cared about its performance on Genkey and instead wanted to maximize its comfort and usability for me.
+This is an experimental version of my layout referred to by Apsu's [APT](https://github.com/Apsu/APT). I deleted the original repo in mid June 2021, but I feel that it makes sense to address it here. The original goal of this layout was to reduce the frequency of pinky-ring NFBs on MTGAP while maintaining its low DSFB rate and distance. The punctuation was taken from Alan Reiser's [Hands Down Reference](https://sites.google.com/alanreiser.com/handsdown#h.s6920vg5spfm).
 
 ```
 w c l d k  j y o u /
