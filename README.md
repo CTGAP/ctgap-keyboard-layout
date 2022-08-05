@@ -2,7 +2,7 @@
 
 This is a log of the layouts I have created. If you are interested in using one, you are responsible for your own implementation.
 
-## CTGAP 4.0 - Final
+## CTGAP 4.0
 
 This layout is a return to form after the failed experiment that was version 3.0. The goal was to polish the experimental version 2.0 into something more usable. This once existed in the form of Apsu's [APT](https://github.com/Apsu/APT), but it has morphed into something that no longer remotely resembles any of my layouts (or anything I would peronally use, for that matter). One of the most common criticisms of version 2.0 was the index imbalance; the right index was severely underused compared to the left index. That issue is resolved in this version, with only a 0.8% difference in usage between the index fingers compared to 3.8% in version 2.0. I also reduced top row pinky usage, swapping out `w` in exchange for `x`.
 
