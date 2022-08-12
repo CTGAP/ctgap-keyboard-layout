@@ -36,7 +36,7 @@ LSBs: 1.27%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/heatmaps/ctgap_heatmap.png?raw=true)
 
 ## CTGAP 4.0
 
@@ -72,7 +72,7 @@ LSBs: 1.30%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap4_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/heatmaps/ctgap4_heatmap.png?raw=true)
 
 ## CTGAP 3.0
 
@@ -108,7 +108,7 @@ LSBs: 1.14%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap3_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/heatmaps/ctgap3_heatmap.png?raw=true)
 
 ## CTGAP 2.0
 
@@ -144,4 +144,4 @@ LSBs: 1.33%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap2_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/heatmaps/ctgap2_heatmap.png?raw=true)
