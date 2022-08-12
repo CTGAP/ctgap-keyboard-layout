@@ -2,9 +2,45 @@
 
 This is a log of the layouts I have created. If you are interested in using one, you are responsible for your own implementation.
 
+## CTGAP - Final Version
+
+This is the layout I personally use. The goal of this version was to combine the general consonant cluster of version 3.0 and the vowel cluster pioneered by version 2.0. Because this vowel cluster calls for a consonant to be placed on the index finger, this allowed some previously problematic consonants, `d` and `f`, to be moved off of the consonant hand. As much as I would like to say that everything about this layout was intentional, the reality was that the layout put itself together in a way. After a few initial planned swaps, I simply moved letters to places that "made sense" without much thought and ended up with this final arrangement. This is why there are several changes that I am unable to explain in detail; I don't have a conscious understanding as to why I made them myself. As some may say, "it just works." It indeed works; out of all versions, this has the lowest SFB, DSFB, and top row pinky usage.
+
+```
+q p l c j  x f o u /
+r n t s g  y h e i a
+z b m w v  k d ' , .
+```
+
+### [Genkey](https://github.com/semilin/geney) Breakdown
+
+```
+Rolls (l): 17.95%
+        Inward: ~11.40%
+        Outward: ~6.55%
+Rolls (r): 25.79%
+        Inward: ~7.16%
+        Outward: ~18.64%
+Alternates: ~41.53%
+Onehands: ~1.89%
+Redirects: ~3.98%
+Finger Speed (weighted): [0.18 0.70 2.36 2.46 1.40 2.03 1.22 0.61]
+Finger Speed (unweighted): [0.27 2.52 11.34 13.51 7.68 9.73 4.39 0.92]
+Highest Speed (weighted): 2.46 (LI)
+Highest Speed (unweighted): 13.51 (LI)
+Index Usage: 14.6% 13.3%
+SFBs: 0.872%
+DSFBs: 6.731%
+LSBs: 1.27%
+```
+
+### Heatmap
+
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap_heatmap.PNG?raw=true)
+
 ## CTGAP 4.0
 
-This layout is a return to form after the failed experiment that was version 3.0. The goal was to polish the experimental version 2.0 into something more usable. This once existed in the form of Apsu's [APT](https://github.com/Apsu/APT), but it has morphed into something that no longer remotely resembles any of my layouts (or anything I would peronally use, for that matter). One of the most common criticisms of version 2.0 was the index imbalance; the right index was severely underused compared to the left index. That issue is resolved in this version, with only a 0.8% difference in usage between the index fingers compared to 3.8% in version 2.0. I also reduced top row pinky usage, swapping out `w` in exchange for `x`.
+This is a return to form after the failed experiment that was version 3.0. The goal was to polish the experimental version 2.0 into something more usable. This once existed in the form of Apsu's [APT](https://github.com/Apsu/APT), but it has morphed into something that no longer remotely resembles any of my layouts (or anything I would peronally use, for that matter). One of the most common criticisms of version 2.0 was the index imbalance; the right index was severely underused compared to the left index. That issue is resolved in this version, with only a 0.8% difference in usage between the index fingers compared to 3.8% in version 2.0. I also reduced top row pinky usage, swapping out `w` in exchange for `x`.
 
 ```
 x c l m k  j y o u /
@@ -36,7 +72,7 @@ LSBs: 1.30%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-4.en.ergodox_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap4_heatmap.PNG?raw=true)
 
 ## CTGAP 3.0
 
@@ -72,7 +108,7 @@ LSBs: 1.14%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-3.en.ergodox_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap3_heatmap.PNG?raw=true)
 
 ## CTGAP 2.0
 
@@ -108,4 +144,4 @@ LSBs: 1.33%
 
 ### Heatmap
 
-![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap-2.en.ergodox_heatmap.PNG?raw=true)
+![Heatmap](https://github.com/CTGAP/ctgap-keyboard-layout/blob/main/klanext/ctgap2_heatmap.PNG?raw=true)
